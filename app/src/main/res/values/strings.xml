@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PrimeCalculator</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="lower_bound_hint">From</string>
+    <string name="upper_bound_hint">To</string>
+    <string name="upper_bound_helper">Insert here the upper bound limit</string>
+    <string name="lower_bound_helper">Insert here the lower bound limit</string>
+
+    <string name="empty_text_view">Let me work!</string>
+    <string name="result_text_view">Found %1$s primes</string>
+    <string name="result_text_view_with_time">Found %1$s primes in %2$s seconds</string>
+    <string name="progress_text_view">%1$s%% (%2$s / %3$s)</string>
+    <string name="empty_image_view_content_description">Let me work!</string>
+    <string name="not_congruent">The numbers are not congruent</string>
+    <string name="invalid_number">Invalid number!</string>
+</resources>

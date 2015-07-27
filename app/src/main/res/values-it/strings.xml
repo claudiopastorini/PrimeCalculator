@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimeCalculator</string>
+
+    <string name="action_settings">Impostazioni</string>
+
+    <string name="lower_bound_hint">Da</string>
+    <string name="upper_bound_hint">A</string>
+    <string name="lower_bound_helper">Inserisci qui il limite minimo</string>
+    <string name="upper_bound_helper">Inserisci qui il limite massimo</string>
+
+    <string name="empty_text_view">Fammi lavorare!</string>
+    <string name="result_text_view">Trovati %1$s numeri primi</string>
+    <string name="result_text_view_with_time">Trovati %1$s numeri primi in %2$s secondi</string>
+    <string name="progress_text_view">%1$s%% (%2$s / %3$s)</string>
+    <string name="empty_image_view_content_description">Fammi lavorare!</string>
+    <string name="not_congruent">I numeri non sono congruenti</string>
+    <string name="invalid_number">Numero non valido!</string>
+</resources>
